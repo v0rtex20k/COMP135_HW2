@@ -1,0 +1,8 @@
+Name: Victor Arsenescu
+
+I spent about 6 hours on the whole assignment, most of which was just because of
+an error on my part with how the test/train data was split.
+
+Did the assignment independently - did not ask for help/clarification beyond
+a bit of debugging with Zhitong on Sunday.
+
